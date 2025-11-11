@@ -1,0 +1,30 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Compilati
+*.dll
+*.exe
+*.pdb
+
+# Altri file inutili
+*.cache
+*.log
+*.dbmdl
+*.mdf
+*.ldf
